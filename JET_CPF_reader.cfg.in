@@ -1,0 +1,4 @@
+# Current config strategy,
+# environment variables exported here will be avaialable to your plugins
+# e.g.
+# export DRAFT_DATA_DIR="/Users/aparker/Desktop/DRAFT_data/data"
